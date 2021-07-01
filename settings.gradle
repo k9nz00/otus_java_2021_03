@@ -25,3 +25,11 @@ include 'L17-nio-logging'
 
 include 'L18-jdbc:demo'
 include 'L18-jdbc:homework'
+
+include 'L19-rdbms'
+
+include 'L20-hibernate:ext-demo'
+include 'L20-hibernate:main-demo'
+
+include 'L21-JPQL'
+include 'L22-cache'
